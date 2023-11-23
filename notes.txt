@@ -1,0 +1,15 @@
+we made a vr app that uses images to show the user where they are on the map, these images can be updated where ever the user clicks an arrow . this is done by the cursor event function.
+
+we used the text component to make 3d text 
+
+
+we also made a vr shooting game and a game that lets you fly a plane.  we made the plane be able to collide with the birds and gain score using the onCollision event.
+
+
+
+we also used the Aframe cursor event function to change screens using only one click, we also used keyboard events to make a certain entity move in the Plane Simulator
+
+
+we used Tinkercad to make 3d models for our vr games
+
+vr follows ecs=entity component system
